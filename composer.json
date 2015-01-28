@@ -2,7 +2,5 @@
     "name": "renronghuan/test",
     "type": "library",
     "description": "test for composer",
-    "require": {
-        "monolog/monolog": "1.0.*"
-    }
+   
 }
